@@ -4,6 +4,7 @@ This hands-on learning series covers fundamental topics in Apache Cassandra™ t
 
 1. [Introduction to Apache Cassandra™](https://katapod.datastaxtraining.com/#https://github.com/ArtemChebotko/cassandra/)
 2. [Cassandra Query Language](https://katapod.datastaxtraining.com/#https://github.com/ArtemChebotko/cql/)
-3. [Keyspaces and Data Replication Strategies](https://katapod.datastaxtraining.com/#https://github.com/ArtemChebotko/keyspaces/)
-4. [Tables with Single-Row Partitions](https://katapod.datastaxtraining.com/#https://github.com/ArtemChebotko/tables-single-row-partitions/)
-5. [Tables with Multi-Row Partitions](https://katapod.datastaxtraining.com/#https://github.com/ArtemChebotko/tables-multi-row-partitions/)
+3. [Apache Cassandra™ Keyspaces and Data Replication Strategies](https://katapod.datastaxtraining.com/#https://github.com/ArtemChebotko/keyspaces/)
+4. [Tables with Single-Row Partitions in Apache Cassandra™](https://katapod.datastaxtraining.com/#https://github.com/ArtemChebotko/tables-single-row-partitions/)
+5. [Tables with Multi-Row Partitions in Apache Cassandra™](https://katapod.datastaxtraining.com/#https://github.com/ArtemChebotko/tables-multi-row-partitions/)
+6. [Inserts, Updates, Deletes and Upserts in Apache Cassandra™](https://katapod.datastaxtraining.com/#https://github.com/ArtemChebotko/inserts-updates-deletes/)
