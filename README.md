@@ -8,3 +8,8 @@ This hands-on learning series covers fundamental topics in Apache Cassandra™ t
 4. [Tables with Single-Row Partitions in Apache Cassandra™](https://katapod.datastaxtraining.com/#https://github.com/ArtemChebotko/tables-single-row-partitions/)
 5. [Tables with Multi-Row Partitions in Apache Cassandra™](https://katapod.datastaxtraining.com/#https://github.com/ArtemChebotko/tables-multi-row-partitions/)
 6. [Inserts, Updates, Deletes and Upserts in Apache Cassandra™](https://katapod.datastaxtraining.com/#https://github.com/ArtemChebotko/inserts-updates-deletes/)
+
+7. [Bulk Loading Large Datasets into Apache Cassandra™](https://katapod.datastaxtraining.com/#https://github.com/ArtemChebotko/bulk-loading/)
+8. [Queries in Apache Cassandra™](https://katapod.datastaxtraining.com/#https://github.com/ArtemChebotko/queries/)
+9. [Using Advanced Data Types in Apache Cassandra™](https://katapod.datastaxtraining.com/#https://github.com/ArtemChebotko/advanced-data-types/)
+10. [Tunable Consistency and Consistency Levels in Apache Cassandra™](https://katapod.datastaxtraining.com/#https://github.com/ArtemChebotko/tunable-consistency/)
